@@ -12,12 +12,12 @@ Made by: TheRealStew
 discord: https://discord.gg/8c4tZaC
 
 
-About:
+**About:**
 
 StewLikeOverlay.py is a youtube Like overlay and is designed to monitor the number of likes on a YouTube video and update a text file and HTML progress bar accordingly.
 You will need to use a firefox extention to auto refresh the page. (Auto Refresh Page) Also to run any of the Bat files, you need to have Python installed, preferably the most up-to-date version.
 
-Usage:
+**Usage:**
     Before starting make sure you have python installed 
     Then open install.bat file when done deleat it.
     To start press Run.bat and provide the URL of the YouTube live stream link.
@@ -32,7 +32,7 @@ Usage:
     Once your goal is hit it will ask you if you would like to update the goal and it will update!
     Also If you use the same link to stream on you can use the link history by just typing H at the selection for the link and will promp you to select out of 1-5! 
 
-Features:
+**Features:**
 
    - Like Count Monitoring: The script retrieves the like count from the YouTube video page using regular expressions.
    - Text File Update: The current like count is stored in a text file for easy access and reference.
@@ -43,6 +43,7 @@ Features:
    - Success Message: A success message is displayed after each update, indicating that the like count and progress bar have been updated.
    - Past Link system: Saves our last links you have used if you stream useing the same link
 
+**Images:**
 ![image](https://github.com/TheRealStew/StewLikeOverlay.py/assets/45191884/dcb92f6f-a7a8-4d59-920c-25fc5ef4d910)
 
 ![image](https://github.com/TheRealStew/StewLikeOverlay.py/assets/45191884/af743a7e-3014-4343-bec5-89d61d28db29)
