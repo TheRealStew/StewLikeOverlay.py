@@ -19,7 +19,7 @@ You will need to use a firefox extention to auto refresh the page. (Auto Refresh
 
 **Usage:**
   -  Before starting make sure you have python installed 
-  -  Then open install.bat file when done deleat it.
+  -  Then open install.bat file when done delete it.
   -  To start press Run.bat and provide the URL of the YouTube live stream link.
   -  Enter the desired like goal for the video.
   -  The script will continuously check the specified YouTube video page and extract the current like count using regular expressions.
