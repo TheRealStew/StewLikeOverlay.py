@@ -32,13 +32,14 @@ Usage:
 
 Features:
 
-    Like Count Monitoring: The script retrieves the like count from the YouTube video page using regular expressions.
-    Text File Update: The current like count is stored in a text file for easy access and reference.
-    HTML Progress Bar: The script generates an HTML progress bar, visually representing the progress towards the specified like goal.
-    Goal Adjustment: If the like goal is reached, the script prompts the user to update the goal with a new value.
-    Customizability: Users can choose any YouTube video and set their desired like goal.
-    Interval-based Monitoring: The script waits for a specified interval (e.g., 1 minute) before checking the like count again.
-    Success Message: A success message is displayed after each update, indicating that the like count and progress bar have been updated.
+   - Like Count Monitoring: The script retrieves the like count from the YouTube video page using regular expressions.
+   - Text File Update: The current like count is stored in a text file for easy access and reference.
+   - HTML Progress Bar: The script generates an HTML progress bar, visually representing the progress towards the specified like goal.
+   - Goal Adjustment: If the like goal is reached, the script prompts the user to update the goal with a new value.
+   - Customizability: Users can choose any YouTube video and set their desired like goal.
+   - Interval-based Monitoring: The script waits for a specified interval (e.g., 1 minute) before checking the like count again.
+   - Success Message: A success message is displayed after each update, indicating that the like count and progress bar have been updated.
+   - Past Link system: Saves our last links you have used if you stream useing the same link
 
 ![image](https://github.com/TheRealStew/StewLikeOverlay.py/assets/45191884/dcb92f6f-a7a8-4d59-920c-25fc5ef4d910)
 
