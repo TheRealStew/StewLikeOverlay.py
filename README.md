@@ -40,4 +40,5 @@ Features:
     Interval-based Monitoring: The script waits for a specified interval (e.g., 1 minute) before checking the like count again.
     Success Message: A success message is displayed after each update, indicating that the like count and progress bar have been updated.
 
+![image](https://github.com/TheRealStew/StewLikeOverlay.py/assets/45191884/dcb92f6f-a7a8-4d59-920c-25fc5ef4d910)
 
