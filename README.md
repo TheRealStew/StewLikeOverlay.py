@@ -42,3 +42,4 @@ Features:
 
 ![image](https://github.com/TheRealStew/StewLikeOverlay.py/assets/45191884/dcb92f6f-a7a8-4d59-920c-25fc5ef4d910)
 
+![image](https://github.com/TheRealStew/StewLikeOverlay.py/assets/45191884/af743a7e-3014-4343-bec5-89d61d28db29)
