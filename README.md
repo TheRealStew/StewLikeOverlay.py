@@ -26,7 +26,7 @@ You will need to use a firefox extention to auto refresh the page. (Auto Refresh
   -  It will update a text file with the extracted like count and generate an HTML progress bar to visualize the progress towards the goal.
   -  The progress bar is saved in an HTML file.
   -  Then you will need a auto refresh extention for firefox (Auto Refresh Page) 30-60 seconds work best
-  -  Open the html in firefox and have the autofresh extention working
+  -  Open the html in firefox and have the Auto Refresh extention working
   -  Then once in discord capture the window of the html in firefox
   -  THEN boom working youtube like overlay for your livestream for youtube!
   -  Once your goal is hit it will ask you if you would like to update the goal and it will update!
