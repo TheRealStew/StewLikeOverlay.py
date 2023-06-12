@@ -6,7 +6,9 @@
 |____/ \__\___| \_/\_/   |_____|_|_|\_\___|  \___/  \_/ \___|_|  |_|\__,_|\__, | (_)_|    \__, |
                                                                           |___/           |___/  
 ```
-Made by Stew
+**Info:**
+
+Made by: TheRealStew
 discord: https://discord.gg/8c4tZaC
 
 
